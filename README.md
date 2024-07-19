@@ -1,4 +1,4 @@
-# Laptop-Predictive-Analysis
+
 
 # Laptop  Base Price and Exact Price Prediction -Artificial Intelligent
 
@@ -36,5 +36,5 @@ This project was inspired by the Kaggle dataset on Laptop Price Prediction and t
  
  
  # Developer Information:
-Name-Surname: Shakthipriya
-Contact (Email) : shakthipriya3011@gmail.com
+* Name-Surname: Shakthipriya
+* Contact (Email) : shakthipriya3011@gmail.com
